@@ -89,7 +89,7 @@ const AddNewInterview = () => {
       >
         <h2 className=" text-lg text-center">
       <motion.a
-                href="/dashboard"
+                
                 className="px-8 py-4 text-xl font-semibold  text-indigo-700"
                 whileHover={{ 
                   scale: 1.05,
