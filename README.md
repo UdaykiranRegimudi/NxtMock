@@ -51,7 +51,7 @@ Ensure you have the following installed:
 ### 📌 Installation
 ```bash
 # Clone the repository
-git clone https://github.com/UdaykiranRegimudi/nxtmock.git
+git clone https://github.com/UdaykiranRegimudi/NxtMock.git
 
 # Navigate to the project folder
 cd nxtmock
