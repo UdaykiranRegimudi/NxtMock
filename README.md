@@ -13,6 +13,26 @@ Receive personalized feedback instantly to understand your performance and impro
 ### ✅ Comprehensive Reports
 Get detailed reports highlighting your strengths and weaknesses, helping you track your progress effectively.
 
+## 💰 Pricing
+We offer flexible pricing plans to suit your needs:
+
+### 🎓 Student Plan (Free)
+- Limited AI Mock Interviews per month
+- Basic feedback analysis
+- Access to standard interview questions
+
+### 🚀 Pro Plan ($9.99/month)
+- Unlimited AI Mock Interviews
+- Detailed performance reports
+- Advanced feedback with improvement suggestions
+- Access to premium interview questions
+
+### 🏆 Ultimate Plan ($49.99/month)
+- Everything in Pro Plan
+- Personalized coaching sessions
+- Exclusive industry-specific mock interviews
+- Priority support
+
 ## 🛠️ Tech Stack
 - **Frontend:** Next.js, React.js, Tailwind CSS
 - **Backend:** Node.js, Express.js
@@ -31,7 +51,7 @@ Ensure you have the following installed:
 ### 📌 Installation
 ```bash
 # Clone the repository
-git clone https://github.com/UdaykiranRegimudi/NxtMock.git
+git clone https://github.com/UdaykiranRegimudi/nxtmock.git
 
 # Navigate to the project folder
 cd nxtmock
@@ -73,4 +93,4 @@ vercel deploy
 This project is licensed under the **MIT License**.
 
 ## ✨ Contact
-For any queries or collaborations, reach out at: **uuday3804@gmail.com**
+For any queries or collaborations, reach out at: **uday@example.com**
