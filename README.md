@@ -93,4 +93,4 @@ vercel deploy
 This project is licensed under the **MIT License**.
 
 ## ✨ Contact
-For any queries or collaborations, reach out at: **uday@example.com**
+For any queries or collaborations, reach out at: **uuday3804@gmail.com**
