@@ -1,4 +1,4 @@
-# nxtmock
+# NxtMock
 
 nxtmock is an advanced AI-powered platform designed to help students prepare for interviews. It offers interactive mock interviews, instant feedback, and comprehensive reports to enhance interview skills.
 
