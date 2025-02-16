@@ -51,7 +51,7 @@ Ensure you have the following installed:
 ### 📌 Installation
 ```bash
 # Clone the repository
-git clone https://github.com/UdaykiranRegimudi/nxtmock.git
+git clone https://github.com/UdaykiranRegimudi/NxtMock.git
 
 # Navigate to the project folder
 cd nxtmock
@@ -93,4 +93,4 @@ vercel deploy
 This project is licensed under the **MIT License**.
 
 ## ✨ Contact
-For any queries or collaborations, reach out at: **uday@example.com**
+For any queries or collaborations, reach out at: **uuday3804@gmail.com**
